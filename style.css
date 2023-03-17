@@ -29,9 +29,9 @@ button {
 
 #list {
   margin: 10px;
-  border: 1px solid #333;
-  background: rgba(255, 255, 255, 0.75);
+  border: 3px solid hwb(0 34% 52%);
+  background: #f19797bf;
   padding: 15px 20px 18px 18px;
-  border-radius: 5px;
+  border-radius: 13px;
   box-shadow: 2px 5px 5px #333;
 }
